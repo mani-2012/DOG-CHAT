@@ -1,5 +1,5 @@
-function mas(){
-    pet=document.getElementById("cat").value;
-    localStorage.setItem("pet" , pet);
-    window.location="chat_room.html";
+function mouse(){
+    lulu=document.getElementById("pet").value;
+    localStorage.setItem("lulu" , lulu);
+    window.location="kwitter_room.html";
 }
